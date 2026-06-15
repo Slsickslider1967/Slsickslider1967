@@ -1,4 +1,3 @@
-[README.md](https://github.com/user-attachments/files/28967461/README.md)
 # Hi, I'm Georgio
 
 I'm a developer with a passion for **physics simulations** and **game development**. I enjoy building things that sit at the intersection of code and real-world systems — whether that's simulating fluid dynamics from scratch or implementing classical algorithms in clean, well-structured code.
