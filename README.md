@@ -6,12 +6,13 @@ I'm a developer with a passion for **physics simulations** and **game developmen
 
 ## Current Work
 
-**[Engine13](https://github.com/Slsickslider1967/Engine13)** — A 2D particle physics engine built from scratch in C#. Features SPH fluid simulation, granular material dynamics, impulse-based collision resolution, and real-time rendering with Veldrid.
+**[Signal](https://github.com/Slsickslider1967/Signal)** —  A realtime Eurorack/Synth simulator, user createable modules and hot reloading. Manipulations of Linuxs .so files.
 
 ---
 
 ## Languages & Tools
 
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=cplusplus&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white)
 ![GLSL](https://img.shields.io/badge/GLSL-5586A4?style=flat&logo=opengl&logoColor=white)
 ![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat&logo=dotnet&logoColor=white)
@@ -24,11 +25,11 @@ I'm a developer with a passion for **physics simulations** and **game developmen
 
 | Project | Description |
 |---|---|
-| [SUVAT](https://github.com/Slsickslider1967/SUVAT) | Physics equation solver using SUVAT kinematics |
-| [Binary-Tree](https://github.com/Slsickslider1967/Binary-Tree) | Binary search tree implementation in C# |
-| [Graph](https://github.com/Slsickslider1967/Graph) | Graph data structure with traversal algorithms |
-| [Bubble-Sort](https://github.com/Slsickslider1967/Bubble-Sort) | Sorting algorithm implementation and visualisation |
-| [VeldridTests](https://github.com/Slsickslider1967/VeldridTests) | Experiments with the Veldrid graphics library |
+| [Signal](https://github.com/Slsickslider1967/Signal) | A realtime Eurorack/Synth simulator, user createable modules and hot reloading | 
+| [2D Physics](https://github.com/Slsickslider1967/2DPhysicsSimulation) | A 2D particle physics engine built from scratch in C#. Features SPH fluid simulation, granular material dynamics, impulse-based collision resolution, and real-time rendering with Veldrid. | 
+| [C# Algorithms](https://github.com/Slsickslider1967/CSharpAlgorithms) | A collection of diffrent algorithms and brain teasers coded in C# |  
+| [IT Crowd DVD game](https://github.com/Slsickslider1967/IT-Crowd-DVD-Game) | A ongoing free time project to replicate the games seen in the background of the IT Crowd DVDs | 
+| [PNG Splitter](https://github.com/Slsickslider1967/PNG-Splitter) | A small program to split a PNG into smaller images |
 
 ---
 
