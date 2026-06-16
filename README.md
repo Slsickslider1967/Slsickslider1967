@@ -7,6 +7,7 @@ I'm a developer with a passion for **physics simulations** and **game developmen
 ## Current Work
 
 **[Signal](https://github.com/Slsickslider1967/Signal)** —  A realtime Eurorack/Synth simulator, user createable modules and hot reloading. Manipulations of Linuxs .so files.
+**[Drive Engine](https://github.com/Slsickslider1967/DRIVE-Engine)** — A WIP project for game creation, a visual aid pr makign games, similar to a game engine where you interact with a view port to develop, you are given a view port to see live changes and updates to the code you are working on.
 
 ---
 
